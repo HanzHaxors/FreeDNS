@@ -3,6 +3,12 @@ Empowering internet pros
 
 (c) HanzHaxors 2020<br/>
 
+# Local Usage Instruction
+ 1. `git clone https://github.com/HanzHaxors/FreeDNS`
+ 2. `cd FreeDNS`
+ 3. `python3 index.py`
+ 4. Minimize the window
+
 # ToDo
  - [ ] Make DoH
  - [ ] Remove ALL dependencies
