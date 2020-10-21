@@ -1,8 +1,12 @@
 {
   "origin": "hanz.haxors.",
-  "ttl": 3600,
+  "ttl": 300,
   "A": [
-    {"name": "@", "ttl": 400, "value": "108.61.245.193"},
-    {"name": "www", "ttl": 400, "value": "108.61.245.193"}
+    {"name": "@", "ttl": 3600, "value": "127.0.0.1"},
+    {"name": "www", "ttl": 3600, "value": "127.0.0.1"}
+  ],
+  "AAAA": [
+    {"name": "@", "ttl": 3600, "value": "::1"},
+    {"name": "www", "ttl": 3600, "value": "::1"}
   ]
 }

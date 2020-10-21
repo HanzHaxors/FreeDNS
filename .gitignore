@@ -4,3 +4,5 @@ server.key
 server.cert
 dnslib/__pycache__/
 __pycache__/
+output/
+*.exe
